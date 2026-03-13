@@ -55,6 +55,10 @@ python3 -m http.server 8000
  ○○○       ← 机尾
 ```
 
+## 截图
+
+![游戏截图](page.png)
+
 ## License
 
 MIT
